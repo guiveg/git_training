@@ -1,3 +1,6 @@
 This is Alice
 
 Changes in Alice. And even more changes
+
+
+Changed from the remote repository
