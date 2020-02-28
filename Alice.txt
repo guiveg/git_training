@@ -1,3 +1,2 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-
+Alice on branch change_alice
 Changes in Alice. And even more changes
